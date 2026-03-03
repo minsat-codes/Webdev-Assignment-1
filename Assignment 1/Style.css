@@ -21,7 +21,6 @@ header {
     background-color: lightgreen;
 }
 
-
 .banner {
     display: flex;
     align-items: center;
@@ -235,5 +234,6 @@ header {
 .footer-icon:hover {
     transform: scale(1.1); 
 }
+
 
 
